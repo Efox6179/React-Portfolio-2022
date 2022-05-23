@@ -11,7 +11,7 @@ body {
   font-family: 'Raleway', sans-serif;
 }
 
-/* hide scrollbar */
+
 body::-webkit-scrollbar {
   display: none;
 }
